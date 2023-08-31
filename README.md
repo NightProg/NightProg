@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Rust, Creating langage**
 
-- 📄 Know about my experiences [created two langage](created two langage)
+- 📄 Know about my experiences [github repostery](https://github.com/NightProg?tab=repositories)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
